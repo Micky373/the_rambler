@@ -1,4 +1,4 @@
-streamlit==0.89.0
-speechrecognition==3.8.1
-pyaudio==0.2.11
-wave==0.0.2
+streamlit
+speechrecognition
+pyaudio
+wave
